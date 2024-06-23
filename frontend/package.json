@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "version": "20.9.0",
+  "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -40,5 +40,11 @@
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
     "typescript": "~5.4.2"
+  },
+
+  "engines": {
+    "node": ">=18.19.0"
   }
+
+  
 }
